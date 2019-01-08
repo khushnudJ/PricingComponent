@@ -1,0 +1,2 @@
+# PricingComponent
+Pricing Component
